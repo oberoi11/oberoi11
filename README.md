@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **[Your Project Name]**
+- 🔭 I’m currently working on **Algorithms**
 - 🌱 I’m currently learning **Web3, Multithreading, System Design**
 - 👯 I’m looking to collaborate on **Open Source**
-- 👨‍💻 All of my projects are available at [https://yourportfolio.com](Under Construction)
-- 📫 How to reach me **your.email@example.com**
+- 👨‍💻 All of my projects are available at (Under Construction)
+- 📫 How to reach me **oberoiansh899@gmail.com**
 - ⚡ Fun fact: **I love solving puzzles and building trading bots**
 
 ---
