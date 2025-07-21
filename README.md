@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ansh Oberoi</h1>
+<h3 align="center">A passionate Full Stack Developer & Problem Solver from India</h3>
 
-<!--
-**oberoi11/oberoi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **[Your Project Name]**
+- 🌱 I’m currently learning **Web3, Multithreading, System Design**
+- 👯 I’m looking to collaborate on **Open Source**
+- 👨‍💻 All of my projects are available at [https://yourportfolio.com](https://yourportfolio.com)
+- 📫 How to reach me **your.email@example.com**
+- ⚡ Fun fact: **I love solving puzzles and building trading bots**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh-oberoi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-oberoi&layout=compact&theme=tokyonight)
+
+---
+
+## 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ansh-oberoi&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🧠 Skills & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ansh-oberoi&theme=github-compact)
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin" /></a>
+  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
