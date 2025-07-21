@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **[Your Project Name]**
 - 🌱 I’m currently learning **Web3, Multithreading, System Design**
 - 👯 I’m looking to collaborate on **Open Source**
-- 👨‍💻 All of my projects are available at [https://yourportfolio.com](https://yourportfolio.com)
+- 👨‍💻 All of my projects are available at [https://yourportfolio.com](Under Construction)
 - 📫 How to reach me **your.email@example.com**
 - ⚡ Fun fact: **I love solving puzzles and building trading bots**
 
@@ -14,15 +14,15 @@
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh-oberoi&show_icons=true&theme=tokyonight)
+![GitHub Stats](Under Construction)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-oberoi&layout=compact&theme=tokyonight)
+![Top Langs](Under Construction)
 
 ---
 
 ## 🏅 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ansh-oberoi&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](Under Construction)
 
 ---
 
@@ -43,6 +43,10 @@
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ansh-oberoi&theme=github-compact)
 
 ---
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
 
 ## 🔗 Connect with Me
 
