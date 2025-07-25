@@ -1,43 +1,55 @@
-<h1 align="center">Hi 👋, I'm Ansh Oberoi</h1>
-<h3 align="center">🚀 Full Stack Developer | 🔍 Problem Solver | 💡 Tech Explorer</h3>
+<h1 align="center">
+  Hi there 👋, I'm <span style="color:#F9A826;">Ansh Oberoi</span>
+</h1>
+<h3 align="center">A passionate Full Stack Developer & Problem Solver from India</h3>
 
 <div align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_qp1q7mct.json" height="200" alt="Developer Lottie" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Backend+Spring+Boot+Specialist;Leetcode+%2F+Codeforces+Enthusiast" alt="Typing SVG" />
 </div>
 
----
+<br />
 
-### 🧠 About Me
-
-💻 I'm currently working on **Algorithms & Backend Systems**  
-🌱 Learning **Web3, Multithreading, System Design**  
-📫 Reach me at **oberoiansh899@gmail.com**  
-💡 Fun fact: I build **Trading Bots** in my free time!
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding Animation" />
+</p>
 
 ---
 
-### ⚡ Tech Stack & Tools
+## 🧠 About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- 🔭 I’m currently working on **Spring Boot Backend Systems and Advanced Algorithms**
+- 🌱 I’m currently learning **Web3, Multithreading, System Design**
+- 👯 I’m looking to collaborate on **Open Source Java Projects**
+- 📫 Reach me at: **oberoiansh899@gmail.com**
+- ⚡ Fun fact: I build bots, automate boring stuff, and love solving puzzles!
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh-oberoi&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-oberoi&layout=compact&theme=github_dark" width="48%" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-### 🏅 GitHub Trophies
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansh-oberoi&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-oberoi&layout=compact&theme=github_dark" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ansh-oberoi&theme=onedark" />
@@ -45,37 +57,43 @@
 
 ---
 
-### 🗓 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh-oberoi&theme=github-compact)
-
----
-
-### 🎯 Competitive Programming
-
-[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-handle)
-
----
-
-### 🔗 Connect with Me
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-oberoi&theme=react-dark" />
+</p>
+
+---
+
+## 🎯 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/oberoiansh799/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="mailto:oberoiansh899@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://codeforces.com/profile/oberoiansh799" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🌀 Lottie Animation Footer
+## 🤝 Connect With Me
 
-<div align="center">
-  <img src="https://assets5.lottiefiles.com/packages/lf20_4kx2q32n.json" height="250" />
-</div>
+<p align="center">
+  <a href="mailto:oberoiansh899@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
+</p>
