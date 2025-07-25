@@ -45,7 +45,7 @@
 ---
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Codeforces]([https://img.shields.io/badge/Codeforces-1F8ACB](https://codeforces.com/profile/oberoiansh799)?style=for-the-badge&logo=codeforces&logoColor=white)
+![Codeforces]([[https://img.shields.io/badge/Codeforces-1F8ACB](https://codeforces.com/profile/oberoiansh799)](https://camo.githubusercontent.com/2c8ba124e11ebefe3dbcbfcb5620d294d405d50e29e8b6d50a4c6f2ab01f1aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3146384143423f7374796c653d666f722d7468652d6261646765266c6f676f3d636f6465666f72636573266c6f676f436f6c6f723d7768697465)?style=for-the-badge&logo=codeforces&logoColor=white)
 
 
 ## 🔗 Connect with Me
