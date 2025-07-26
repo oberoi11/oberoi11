@@ -84,11 +84,11 @@
   <a href="mailto:oberoiansh899@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/ansh-oberoi-b88881219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://github.com/oberoi11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -97,3 +97,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
 </p>
+
