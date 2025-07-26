@@ -54,7 +54,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansh-oberoi&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oberoi11&theme=onedark" />
+
 </p>
 
 ---
