@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh-oberoi&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-oberoi&layout=compact&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oberoi11&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oberoi11&layout=compact&theme=github_dark" height="150" />
 </p>
 
 ---
