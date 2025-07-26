@@ -4,7 +4,8 @@
 <h3 align="center">A passionate Full Stack Developer & Problem Solver from India</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Backend+Spring+Boot+Specialist;LeetCode+%2F+Codeforces+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1500&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Backend+Spring+Boot+Specialist;%E2%80%8BLeetCode+%2F+Codeforces+Enthusiast" alt="Typing SVG" />
+
 </div>
 
 <br />
